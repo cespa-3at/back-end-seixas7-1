@@ -110,4 +110,4 @@ Use o código com cuidado.
 Para validar, poste no comentário da tarefa:
 
 1.  O nome e a cidade que você cadastrou.
-2.  O que aconteceu quando você rodou o comando  `SELECT`  no terminal? (Apareceu seu nome lá?).
+2.  O que aconteceu quando você rodou o comando  `SELECT`  no terminal? (Apareceu seu nome lá?).hhhhh
